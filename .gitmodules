@@ -7,3 +7,6 @@
 [submodule "lostlink-eureka-server"]
 	path = lostlink-eureka-server
 	url = https://github.com/SasinduDenuwan/lostlink-eureka-server.git
+[submodule "lostlink-config-repo"]
+	path = lostlink-config-repo
+	url = https://github.com/SasinduDenuwan/lostlink-config-repo.git
